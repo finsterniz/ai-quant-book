@@ -16,7 +16,6 @@
 |----------|--------|----------|------|
 | 🇨🇳 中文 | ✅ Complete | 22 lessons + 27 background + 4 appendices | [阅读中文版 →](./manuscript/cn/) |
 | 🇺🇸 English | ✅ Complete | 22 lessons + 27 background + 4 appendices | [Read English →](./manuscript/en/) |
-| 🇯🇵 日本語 | 📝 Planned | - | - |
 
 ---
 
@@ -144,13 +143,12 @@ ai-quant-book/
 │   │   ├── Part4-多智能体/
 │   │   ├── Part5-生产与实战/
 │   │   └── Resources & Links/
-│   ├── en/                      # English (In Progress)
-│   │   ├── Part1-Quick-Start/   # ✅ Complete
-│   │   ├── Part2-Quant-Fundamentals/  # 🚧 Planned
+│   ├── en/                      # English (Complete)
+│   │   ├── Part1-Quick-Start/
+│   │   ├── Part2-Quant-Fundamentals/
 │   │   ├── Part3-Machine-Learning/
 │   │   ├── Part4-Multi-Agent/
 │   │   └── Part5-Production/
-│   └── jp/                      # 日本語 (Planned)
 └── README.md
 ```
 
